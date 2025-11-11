@@ -1,1 +1,6 @@
-# enum-draft-
+# enum-draft
+enum Vote {
+        AGAINST,
+        FOR,
+        ABSTAIN
+    }
